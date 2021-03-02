@@ -1,0 +1,3 @@
+build/
+src/Core/Config.ts
+node_modules
